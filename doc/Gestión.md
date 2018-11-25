@@ -1,8 +1,7 @@
 # Almacenamiento de votos
 ## Tabla de contenidos
-- [Grupo](#Grupo)
-
-- [Heading](#heading-1)
+- [Grupo](#grupo-2)
+- [ID del grupo](#id-de-opera:-10)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
