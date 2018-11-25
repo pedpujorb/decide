@@ -86,7 +86,7 @@ La definición de *baselines* se realizará en el formato siguiente:
  
  Esto se realizará mediante las tags de git.
 ```
-git tag -a v1.0.0
+> git tag -a v1.0.0
 ```
 
 
