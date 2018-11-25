@@ -2,6 +2,4 @@
 ## Grupo 2
 ## ID de Opera: 10
 ## Miembros del grupo
- * Unordered sub-list.
-··* ddfsddfsdfsdf
-··· ··* fsdfsfsdfsdfsdf
+              * [DÃ­az de Mayorga Ledesma, Daniel](https://github.com/dandialed): 5
