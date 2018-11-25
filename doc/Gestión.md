@@ -34,6 +34,14 @@ El proyecto consiste en una plataforma educativa de voto electrónico que, por l
 Para la gestión del código de las mejoras que se van a realizar al subsistema se utiliza la herramienta de git, que permite al equipo de desarrollo llevar a cabo la gestión de este código mediante la creación de ramas, el mergeo de ellas, la definición de baselines etc. Además, el repositorio se alojará en Github y tendrán acceso todas las personas del equipo. Actualmente el repositorio del equipo que se encargará del subsistema de almacenamiento es Decide-Io-Almacenamiento, que es un fork desde Decide-Io, y a su vez Decide-Io es un fork del repositorio original de Decide.
 
 #### Cuándo y Cómo realizar un commit
+Los commits deberán hacerse pronto y con asiduidad aunque de manera que no influya y bloquee a otros usuarios de la misma rama. Es decir, cada vez que se tenga un módulo funcional o un changeset deberá hacerse commit lo antes posible para que los demás usuarios tengan las posiblidad de estar actualizados. Además, a la hora de poder ver en qué momento se introdujo un error o un cambio es más sencillo si se han hecho de esta manera los commits.
+
+Los commits deberán tener la siguiente forma:
+    **Título de commit**
+    
+    Descripción más detallada de los cambios
+    
+
 
 
 Del proyecto base se ha realizado un fork hacia Decido-ío, el grupo general, y desde el grupo general se ha realizado otro fork hacia nuestro subsistema Decide-ío-Almacenamiento.
