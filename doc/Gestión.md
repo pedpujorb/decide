@@ -77,7 +77,7 @@ Partiendo de que nos encontramos en el *fork* de Decide-Io-Almacenamiento, las r
 
 Las ramas se mergearán a la rama de desarrollo solo y cuando funcionalidad o el motivo por el que se haya hecho se haya completado. Después de haberla mergeado y comprobar que funciona correctamente se procederá a borrar la rama en cuestión.
 
-##### Definción de baseline
+##### Definición de baseline
 La definición de *baselines* se realizará en el formato siguiente:
  * X: cambios sustanciales en la funcionalidad.
  * Y: cambios menores en funcionalidad.
@@ -88,17 +88,13 @@ La definición de *baselines* se realizará en el formato siguiente:
 ```
 > git tag -a v1.0.0
 ```
+### Ejemplos de uso
 
-
-Del proyecto base se ha realizado un fork hacia Decido-ío, el grupo general, y desde el grupo general se ha realizado otro fork hacia nuestro subsistema Decide-ío-Almacenamiento.
-
-En el fork del subsistema se abrirán nuevas ramas para cada funcionalidad nueva que se implemente.En el momento en el que se desarrolle una versión estable de una funcionalidad, se podrá mergear la rama develop del subsistema. 
-
-Cuando el subsistema completo sea estable solo los coordinadores podrán subir los cambios a al fork del sistema completo de Decide-ío.
-
-La definición de baselines se realizará con el formato visto en teoría y mediante tags de git.
-
-Los commits contendrán un título indicando brevemente la funcionalidad que se ha implementado y una descripción breve con la información necesaria para comprender estos cambios.
+| Ejemplo       | Prueba        |
+|:-------------:|:--------------|
+| Ejemplo 1     | [prueba1]()   |
+| Ejemplo 2     | [prueba2]()   |
+| Ejemplo 3     | [prueba3]()   |
 
 ### Gestión de la construcción e integración continua
 ### Gestión de liberaciones, despliegue y entregas
