@@ -31,6 +31,20 @@ El proyecto consiste en una plataforma educativa de voto electrónico que, por l
 ### Entorno de desarrollo
 ### Gestión del cambio, incidencias y depuración
 ### Gestión del código fuente
+Para la gestión del código de las mejoras que se van a realizar al subsistema se utiliza la herramienta de git, que permite al equipo de desarrollo llevar a cabo la gestión de este código mediante la creación de ramas, el mergeo de ellas, la definición de baselines etc. Además, el repositorio se alojará en Github y tendrán acceso todas las personas del equipo. Actualmente el repositorio del equipo que se encargará del subsistema de almacenamiento es Decide-Io-Almacenamiento, que es un fork desde Decide-Io, y a su vez Decide-Io es un fork del repositorio original de Decide.
+
+#### Cuándo y Cómo realizar un commit
+
+
+Del proyecto base se ha realizado un fork hacia Decido-ío, el grupo general, y desde el grupo general se ha realizado otro fork hacia nuestro subsistema Decide-ío-Almacenamiento.
+
+En el fork del subsistema se abrirán nuevas ramas para cada funcionalidad nueva que se implemente.En el momento en el que se desarrolle una versión estable de una funcionalidad, se podrá mergear la rama develop del subsistema. 
+
+Cuando el subsistema completo sea estable solo los coordinadores podrán subir los cambios a al fork del sistema completo de Decide-ío.
+
+La definición de baselines se realizará con el formato visto en teoría y mediante tags de git.
+
+Los commits contendrán un título indicando brevemente la funcionalidad que se ha implementado y una descripción breve con la información necesaria para comprender estos cambios.
 
 ### Gestión de la construcción e integración continua
 ### Gestión de liberaciones, despliegue y entregas
