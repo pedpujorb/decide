@@ -38,7 +38,7 @@ Los commits deberán hacerse pronto y con asiduidad aunque de manera que no infl
 
 Los commits deberán tener la siguiente forma:
 ```
-**Título de commit**
+TÍTULO DEL COMMIT
 
 Descripción más detallada de los cambios
 ```
