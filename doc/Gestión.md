@@ -38,7 +38,7 @@ Los commits deberán hacerse pronto y con asiduidad aunque de manera que no infl
 
 Los commits deberán tener la siguiente forma:
 ```
-TÍTULO DEL COMMIT
+TÍTULO DEL COMMIT #ISSUE1234 (Código de incidencia si es necesario)
 
 Descripción más detallada de los cambios
 ```
