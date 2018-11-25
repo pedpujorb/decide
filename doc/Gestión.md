@@ -24,4 +24,4 @@ El proyecto consiste en una plataforma educativa de voto electrónico que, por l
  * Post-procesado
  * Visualización de resultados
  
- En nuestro caso hemos elegido el subsistema *Almacenamiento de votos*
+ En nuestro caso hemos elegido el subsistema **Almacenamiento de votos**
