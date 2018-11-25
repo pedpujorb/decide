@@ -19,7 +19,7 @@
   * [Gestión de liberaciones, despliegue y entregas](#gestión-de-liberaciones-despliegue-y-entregas)
   * [Mapa de herramientas](#mapa-de-herramientas)
   * [Ejercicio de propuesta de cambio](#ejercicio-de-propuesta-de-cambio)
-  * [Conclusiones y trabajo futuro](#conlusiones-y-trabajo-futuro)
+  * [Conclusiones y trabajo futuro](#conclusiones-y-trabajo-futuro)
 ## Grupo 2
 ## ID de Opera: 10
 ## Miembros del grupo
