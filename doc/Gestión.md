@@ -57,7 +57,7 @@ Para la gestión del código de las mejoras que se van a realizar al subsistema 
 #### Cuándo y cómo realizar un commit
 Los *commits* deberán hacerse pronto y con asiduidad aunque de manera que no influya y bloquee a otros usuarios de la misma rama. Es decir, cada vez que se tenga un módulo funcional o un *changeset* deberá hacerse *commit* lo antes posible para que los demás usuarios tengan las posiblidad de estar actualizados. Además, a la hora de poder ver en qué momento se introdujo un error o un cambio es más sencillo si se han hecho de esta manera los *commits*.
 
-Los commits deberán tener la siguiente forma:
+Los *commits* deberán tener la siguiente forma:
 ```
 TÍTULO DEL COMMIT #ISSUE1234 (Código de incidencia si es necesario)
 ============================
@@ -65,8 +65,15 @@ TÍTULO DEL COMMIT #ISSUE1234 (Código de incidencia si es necesario)
 Descripción más detallada de los cambios
 ```
 #### Usage Model
-##### Gestión de ramas
+En este apartado se explicará de forma detallada el modo de uso de las herramientas, respondiendo a cómo se gestionan las ramas, qué permisos tienen los usuarios, cómo se hacen los merge etc.
 
+##### Gestión de ramas
+Partiendo de que nos encontramos en el *fork* de Decide-Io-Almacenamiento, las ramas se pueden crear por distintos motivos:
+ * Físicos: por la arquitectura del proyecto.
+ * Funcionales: según se implementen nuevas funcionalidades se crearían nuevas ramas. En nuestor proyecto esta será la razón principal.
+ * Entorno: por el cambio de versiones del software.
+ * Organizacionales: para la organización en equipos o tareas.
+ * Procedimentales: para diferenciar distintas etapas del proyecto.
 
 
 
