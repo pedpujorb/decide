@@ -26,4 +26,14 @@ El proyecto consiste en una plataforma educativa de voto electrónico que, por l
  
  En nuestro caso hemos elegido el subsistema **Almacenamiento de votos** que consiste en almacenar los votos en una base de datos en la que se tiene la relación entre votante y voto, aunque no es posible conocer la intención de voto podremos saber quién ha votado y quién no. Para el subsistema elegido también se han elegido algunas mejoras propuestas en este documento.
  
- ### Descripción del sistema
+### Descripción del sistema
+### Planificación del proyecto
+### Entorno de desarrollo
+### Gestión del cambio, incidencias y depuración
+### Gestión del código fuente
+
+### Gestión de la construcción e integración continua
+### Gestión de liberaciones, despliegue y entregas
+### Mapa de herramientas
+### Ejercicio de propuesta de cambio
+### Conclusiones y trabajo futuro
