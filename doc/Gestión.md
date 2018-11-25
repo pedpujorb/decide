@@ -37,7 +37,8 @@ Para la gestión del código de las mejoras que se van a realizar al subsistema 
 Los commits deberán hacerse pronto y con asiduidad aunque de manera que no influya y bloquee a otros usuarios de la misma rama. Es decir, cada vez que se tenga un módulo funcional o un changeset deberá hacerse commit lo antes posible para que los demás usuarios tengan las posiblidad de estar actualizados. Además, a la hora de poder ver en qué momento se introdujo un error o un cambio es más sencillo si se han hecho de esta manera los commits.
 
 Los commits deberán tener la siguiente forma:
-```**Título de commit**
+```
+**Título de commit**
 
 Descripción más detallada de los cambios
 ```
