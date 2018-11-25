@@ -75,6 +75,19 @@ Partiendo de que nos encontramos en el *fork* de Decide-Io-Almacenamiento, las r
  * Organizacionales: para la organización en equipos o tareas.
  * Procedimentales: para diferenciar distintas etapas del proyecto.
 
+Las ramas se mergearán a la rama de desarrollo solo y cuando funcionalidad o el motivo por el que se haya hecho se haya completado. Después de haberla mergeado y comprobar que funciona correctamente se procederá a borrar la rama en cuestión.
+
+##### Definción de baseline
+La definición de *baselines* se realizará en el formato siguiente:
+ * X: cambios sustanciales en la funcionalidad.
+ * Y: cambios menores en funcionalidad.
+ * Z: cambios menores, no hay cambios en funcionalidad.
+ *Ejemplo: Versión 2.1.3*
+ 
+ Esto se realizará mediante las tags de git.
+```
+git tag -a v1.0.0
+```
 
 
 Del proyecto base se ha realizado un fork hacia Decido-ío, el grupo general, y desde el grupo general se ha realizado otro fork hacia nuestro subsistema Decide-ío-Almacenamiento.
