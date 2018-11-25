@@ -1,7 +1,10 @@
 # Almacenamiento de votos
 ## Tabla de contenidos
 - [Grupo](#grupo-2)
-- [ID del grupo](#id-de-opera:-10)
+- [ID del grupo](#id-de-opera-10)
+- [Miembros del grupo](#miembros-del-grupo)
+- [Enlaces de interés](#enlaces-de-interes)
+- [Información del proyecto](#enlaces-de-interes)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
