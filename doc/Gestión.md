@@ -9,5 +9,9 @@
   * [Viejo Álvarez, Walabonso](https://github.com/walviealv): 5
 ## Enlaces de interés
 ## Información del proyecto
+
 ### Resumen
- El sistema decide es en una plataforma de voto electrónico que consta de varios subsistemas, en nuestro caso el subsistema elegido ha sido el de almacenamiento de votos ya encriptados y debido a que vemos importante mejorar varios campos de este subsistema, se han propuesto 3 cambios o mejoras en él.
+   El sistema decide es en una plataforma de voto electrónico que consta de varios subsistemas, en nuestro caso el subsistema elegido ha sido el de almacenamiento de votos ya encriptados y debido a que vemos importante mejorar varios campos de este subsistema, se han propuesto 3 cambios o mejoras en él.
+
+### Introducción y contexto
+
