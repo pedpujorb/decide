@@ -15,7 +15,13 @@ El sistema decide es en una plataforma de voto electrónico que consta de varios
 
 ### Introducción y contexto
 El proyecto consiste en una plataforma educativa de voto electrónico que, por lo tanto, requiere de simplicidad y debe ofrecer diferentes garantía como voto electrónico seguro, la anonimicidad y el voto seguro. Además este sistema consta de varios subsistemas como:
- * gfdgdf
- * fdgdfgdfg
- * gdfgdfgd
- * fdgdffg
+ * Autenticación
+ * Censo
+ * Votaciones
+ * Cabina de votación
+ * Almacenamiento de votos (cifrados)
+ * Recuento / MixNet
+ * Post-procesado
+ * Visualización de resultados
+ 
+ En nuestro caso hemos elegido el subsistema *Almacenamiento de votos*
