@@ -92,7 +92,7 @@ La definición de *baselines* se realizará en el formato siguiente:
 
 | Ejemplo       | Prueba        |
 |:-------------:|:--------------|
-| Ejemplo 1     | [prueba1]()   |
+|Ejemplo de commit| [Ir al commit](https://github.com/DecideIO-Almacenamiento/decideio/commit/4ef2f7bcc43ef10bff4d8b1e1cb3ac38a0239138)|
 | Ejemplo 2     | [prueba2]()   |
 | Ejemplo 3     | [prueba3]()   |
 
